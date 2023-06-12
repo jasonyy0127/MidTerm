@@ -1,0 +1,5 @@
+[11-Jun-2023 05:50:58 UTC] PHP Notice:  Undefined index: id in /home4/uumitpro/public_html/barterIt/profile/update_profile.php on line 10
+[11-Jun-2023 05:51:07 UTC] PHP Notice:  Undefined index: id in /home4/uumitpro/public_html/barterIt/profile/update_profile.php on line 10
+[11-Jun-2023 05:51:46 UTC] PHP Notice:  Undefined index: id in /home4/uumitpro/public_html/barterIt/profile/update_profile.php on line 10
+[11-Jun-2023 09:45:16 UTC] PHP Notice:  Undefined index: name in /home4/uumitpro/public_html/barterIt/profile/load_profile.php on line 19
+[11-Jun-2023 09:45:16 UTC] PHP Notice:  Undefined index: email in /home4/uumitpro/public_html/barterIt/profile/load_profile.php on line 20
